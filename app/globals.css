@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --main-color: #54372a;
+  --second-color: #df582e;
+  --text-color: #060413;
+  --container-color: #f8e4be;
+  --bg-color: #f9f6f2;
+  --text-alter-color: #94908e;
+}
+
+/* Swipper Pagination */
+
+.swiper-pagination-bullet {
+  width: 8px !important;
+  height: 8px !important;
+  border-radius: 0.2rem !important;
+  background: var(--main-color) !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+  width: 1.5rem !important;
+  background: var(--second-color) !important;
+}
