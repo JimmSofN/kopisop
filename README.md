@@ -3,10 +3,8 @@
 
 site: https://kopisop-ashen.vercel.app/
 
-![Uploading kopisop-image-screenshot.png…]()
+![kopisop-image-screenshot](https://github.com/user-attachments/assets/8d05c428-1696-4e0c-9f8d-b29f2d2d587a)
 
-
-## Cara Install
 
 Clone repository atau download secara manual
 
