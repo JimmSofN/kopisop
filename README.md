@@ -5,7 +5,7 @@
 
 site: https://kopisop-ashen.vercel.app/
 
-![kopisop-image-screenshot](https://github.com/user-attachments/assets/28e33e7f-81c5-4276-832b-887794b488a7)
+
 
 
 
